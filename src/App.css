@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+
+
+body {
+  background-image: url('https://images.unsplash.com/photo-1547531455-c20b677ded4b?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=675&q=80');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.fa-plus-circle{
+  font-size: 35px;
+  background-color: lightblue;
+  color: blue;
+  
+}
+
+.boton {
+  outline: none;
+  border:  none;
+}
+
+li{
+  font-family: 'Shadows Into Light', cursive;
+  margin-top: 10px;
+  
+  border-top: 1px solid
+}
+
+.title {
+  font-family: 'Shadows Into Light', cursive;
+}
+
+.fa-trash {
+  float: right;
+  
+}
+
+input {
+  font-family: 'Shadows Into Light', cursive;
+}
+
+
+
+button {
+  font-family: 'Shadows Into Light', cursive;
+}
+
+.fondo{
+  background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(30, 139, 195, 1));
+  
+}
